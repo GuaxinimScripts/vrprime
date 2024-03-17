@@ -1,6 +1,6 @@
 # vRPrime
 
-![primeiraArteTEXT](https://github.com/GuaxinimScripts/vrprime/assets/155213285/89fd9ad3-86d9-4587-84c8-060c21a9435c)
+![primeiraArteTEXT](https://github.com/GuaxinimScripts/vrprime/assets/155213285/a664e8ca-6604-4639-8ab7-719e42b0e963)
 
 FiveM RP addon/framework </br>
 The project aims to create a generic and simple RP framework to prevent everyone from reinventing the wheel.</br>
