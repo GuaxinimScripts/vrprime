@@ -6,4 +6,4 @@ FiveM RP addon/framework </br>
 The project aims to create a generic and simple RP framework to prevent everyone from reinventing the wheel.</br>
 Contributions are welcomed.
 
-<link href="https://discord.gg/DgJu4XqAuN">Discord</link>
+<a href="https://discord.gg/DgJu4XqAuN">Discord</a>
